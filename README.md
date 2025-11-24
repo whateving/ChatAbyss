@@ -18,7 +18,8 @@ Paste the encryption/decryption key into the crypto.py on both the server and cl
 
 Add the following configuration to the ```/etc/tor/torrc``` file.
 
-<img width="465" height="338" alt="image" src="https://github.com/user-attachments/assets/b07d93da-0a6a-4d62-b8a5-f07c2d39cdae" />
+<img width="465" height="338" alt="image" src="https://github.com/user-attachments/assets/c5865578-5b42-477e-9695-82716aae2ea2" />
+
 
 
 
@@ -50,4 +51,9 @@ Example:
 python3 client.py --host site.onion --port 80 --nick john
 `
 
+<img width="465" height="68" alt="image" src="https://github.com/user-attachments/assets/8b0aeb34-a4cd-4f3d-b563-30b60aa7545e" />
+
+
 Now your messages are end-to-end encrypted, anonymous, and running through Tor, you can verify this by running tcpdump and checking if the messages are encrypted.
+
+
