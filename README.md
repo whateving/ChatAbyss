@@ -1,4 +1,4 @@
-#What is ChatAbyss
+# What is ChatAbyss
 
 ChatAbyss is Tor-based, terminal-only, anonymous, end-to-end encrypted, and disposable messaging app. The messages do not get saved, so once you are done, you can just delete the server, crypto, and client files and that is it.
 
